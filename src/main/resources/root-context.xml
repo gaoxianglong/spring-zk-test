@@ -20,5 +20,6 @@
 		<constructor-arg name="session_timeout" value="${session.timeout}" />
 		<constructor-arg name="usernamePath" value="${username.path}" />
 		<constructor-arg name="passwordPath" value="${password.path}" />
+		<constructor-arg name="id" value="${id.path}" />
 	</bean>
 </beans>

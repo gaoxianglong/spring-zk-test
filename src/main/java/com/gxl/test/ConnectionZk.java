@@ -1,4 +1,4 @@
-Enter file contents herepackage com.gxl.test;
+package com.gxl.test;
 
 import java.util.concurrent.CountDownLatch;
 import javax.annotation.Resource;
